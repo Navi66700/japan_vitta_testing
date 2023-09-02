@@ -15,7 +15,7 @@
   "></div>
     <div class="video-overlay header-text">
         <div class="caption">
-            <h6>Japan is not a Dream Anymore </h6>
+            <h6>Japan is not a Dream Anymore Hello</h6>
             <h2><em>Japan</em> Vitta</h2>
 
         </div>
